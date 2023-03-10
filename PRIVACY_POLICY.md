@@ -7,7 +7,7 @@ Welcome to 'Family Welfare Homam' app for Android!
 This is a very simple app to register for homam and volunteering at [Aramm Valartha Naayagi Sevai Maiyam](https://arram.org.in/).
 
 The only permission required by the app is
-<uses-permission android:name="android.permission.INTERNET" />
+uses-permission android:name="android.permission.INTERNET"
 
 App collects name, birth date, address, email and phone number manually from the user for both homam registration and volunteering. It is completely up to the user's discretion to enter these details and registering for homam or volunteering with Aramm Valartha Naayagi Sevai Maiyam organization.
 
